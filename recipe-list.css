@@ -1,0 +1,16 @@
+body {
+  background: #cecece;
+}
+
+.modal-body {
+     overflow: hidden;
+}
+
+span {
+  color: gray;
+}
+
+h1 {
+  color: white;
+}
+
